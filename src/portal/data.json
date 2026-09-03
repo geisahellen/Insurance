@@ -1,0 +1,125 @@
+{
+  "portal": {
+    "title": "Portal do Trainer de Seguros",
+    "subtitle": "Onboarding Seguros",
+    "audiences": [
+      "Seguros"
+    ],
+    "slack": "#nuseguros_galileo",
+    "email": "N/A"
+  },
+  "days": {
+    "d1": {
+      "name": "Seguros",
+      "color": "#8A05BE",
+      "slideEmbedBase": "https://docs.google.com/presentation/d/1P6kRYaohnf_pDdeza3aAs-v2oZu7Le3XD1Ax1PhchJM/embed",
+      "resources": {
+        "apoio-fala": {
+          "status": "pending"
+        },
+        "slides": {
+          "status": "pending"
+        },
+        "plano-aula": {
+          "status": "pending"
+        }
+      }
+    },
+    "d2": {
+      "name": "Contratação",
+      "color": "#8A05BE",
+      "slideEmbedBase": "https://docs.google.com/presentation/d/1_-McEXTLYPfmiKy3L4ZwJ0f5IGVamjRRoHN13XZKNOU/embed",
+      "resources": {
+        "apoio-fala": {
+          "status": "pending"
+        },
+        "slides": {
+          "status": "pending"
+        },
+        "plano-aula": {
+          "status": "pending"
+        }
+      }
+    },
+    "d3": {
+      "name": "Pagamento",
+      "color": "#8A05BE",
+      "slideEmbedBase": "https://docs.google.com/presentation/d/1BWPRIQVi_hgp-CZPZ-3nTMoHaFmDfFHGIOEM94178pM/embed",
+      "resources": {
+        "apoio-fala": {
+          "status": "pending"
+        },
+        "slides": {
+          "status": "pending"
+        },
+        "plano-aula": {
+          "status": "pending"
+        }
+      }
+    },
+    "d4": {
+      "name": "Gerenciamento",
+      "color": "#8A05BE",
+      "slideEmbedBase": "https://docs.google.com/presentation/d/1Q_D7hkwj0aukIiEQhxqYXrCe2zlJSv03h_BulOhktGI/embed",
+      "resources": {
+        "apoio-fala": {
+          "status": "pending"
+        },
+        "slides": {
+          "status": "pending"
+        },
+        "plano-aula": {
+          "status": "pending"
+        }
+      }
+    },
+    "d5": {
+      "name": "Cancelamento",
+      "color": "#8A05BE",
+      "slideEmbedBase": "https://docs.google.com/presentation/d/14HRc5YNbyMeIbUS4PmlzcYlQc7Uf7AT9ZSs8BCULFoY/embed",
+      "resources": {
+        "apoio-fala": {
+          "status": "pending"
+        },
+        "slides": {
+          "status": "pending"
+        },
+        "plano-aula": {
+          "status": "pending"
+        }
+      }
+    },
+    "d6": {
+      "name": "Acionamento",
+      "color": "#8A05BE",
+      "slideEmbedBase": "https://docs.google.com/presentation/d/1ygyUOjaqfFXmG6MJBTZAd1JyCt-ws3JpMUDz53hVaOU/embed",
+      "resources": {
+        "apoio-fala": {
+          "status": "pending"
+        },
+        "slides": {
+          "status": "pending"
+        },
+        "plano-aula": {
+          "status": "pending"
+        }
+      }
+    },
+    "d7": {
+      "name": "Acompanhamento",
+      "color": "#8A05BE",
+      "slideEmbedBase": "https://docs.google.com/presentation/d/16R-jqHUf7b3a1d7DifIGWcRZXJ8xibQ1U9YWJfHmdm8/embed",
+      "resources": {
+        "apoio-fala": {
+          "status": "pending"
+        },
+        "slides": {
+          "status": "pending"
+        },
+        "plano-aula": {
+          "status": "pending"
+        }
+      }
+    }
+  }
+}
